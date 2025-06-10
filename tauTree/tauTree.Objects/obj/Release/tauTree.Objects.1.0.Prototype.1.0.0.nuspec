@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>tauTree.Objects.1.0.Prototype</id>
+    <version>1.0.0</version>
+    <authors>Wilken</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="31db4967d8b44ecd0cdc8b8cd079d9a0d4c4616d" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="tauTree.Extensions.1.0.Prototype" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="tauTree.Interfaces.1.0.Prototype" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Objects\bin\Release\net8.0\tauTree.Objects.dll" target="lib\net8.0\tauTree.Objects.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\bin\Release\net8.0\tauTree.Interfaces.deps.json
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\bin\Release\net8.0\tauTree.Interfaces.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\bin\Release\net8.0\tauTree.Interfaces.pdb
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.AssemblyInfoInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.AssemblyInfo.cs
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.sourcelink.json
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\refint\tauTree.Interfaces.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\tauTree.Interfaces.pdb
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\obj\Release\net8.0\ref\tauTree.Interfaces.dll

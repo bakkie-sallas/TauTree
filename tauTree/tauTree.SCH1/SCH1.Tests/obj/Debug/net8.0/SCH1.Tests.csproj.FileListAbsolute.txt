@@ -1,0 +1,7 @@
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_SCH1.Tests
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.csproj.AssemblyReference.cache
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.AssemblyInfoInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.AssemblyInfo.cs
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\SCH1\SCH1.Tests\obj\Debug\net8.0\SCH1.Tests.sourcelink.json

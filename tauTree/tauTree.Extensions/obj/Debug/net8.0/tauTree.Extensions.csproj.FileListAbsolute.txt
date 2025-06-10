@@ -1,0 +1,16 @@
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\bin\Debug\net8.0\tauTree.Extensions.deps.json
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\bin\Debug\net8.0\tauTree.Extensions.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\bin\Debug\net8.0\tauTree.Extensions.pdb
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\bin\Debug\net8.0\tauTree.Interfaces.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\bin\Debug\net8.0\tauTree.Interfaces.pdb
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.csproj.AssemblyReference.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.AssemblyInfoInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.AssemblyInfo.cs
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.sourcelink.json
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree..5D492764.Up2Date
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\refint\tauTree.Extensions.dll
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\tauTree.Extensions.pdb
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Extensions\obj\Debug\net8.0\ref\tauTree.Extensions.dll

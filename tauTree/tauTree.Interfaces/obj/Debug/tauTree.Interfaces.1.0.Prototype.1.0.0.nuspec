@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>tauTree.Interfaces.1.0.Prototype</id>
+    <version>1.0.0</version>
+    <authors>Wilken</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="31db4967d8b44ecd0cdc8b8cd079d9a0d4c4616d" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.Interfaces\bin\Debug\net8.0\tauTree.Interfaces.dll" target="lib\net8.0\tauTree.Interfaces.dll" />
+  </files>
+</package>

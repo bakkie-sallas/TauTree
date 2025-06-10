@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "tauTree.Interfaces.1.0.Prototype/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/tauTree.Interfaces.1.0.Prototype.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/tauTree.Interfaces.1.0.Prototype.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tauTree.Interfaces.1.0.Prototype/1.0.0": {
+      "type": "project",
+      "path": "../tauTree.Interfaces/tauTree.Interfaces.csproj",
+      "msbuildProject": "../tauTree.Interfaces/tauTree.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "tauTree.Interfaces.1.0.Prototype >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wlues\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\wlues\\RiderProjects\\TauTree\\tauTree\\tauTree.Extensions\\tauTree.Extensions.csproj",
+      "projectName": "tauTree.Extensions.1.0.Prototype",
+      "projectPath": "C:\\Users\\wlues\\RiderProjects\\TauTree\\tauTree\\tauTree.Extensions\\tauTree.Extensions.csproj",
+      "packagesPath": "C:\\Users\\wlues\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wlues\\RiderProjects\\TauTree\\tauTree\\tauTree.Extensions\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\wlues\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Trademe\\Nuget\\packages\\": {},
+        "https://gitlab.com/api/v4/projects/22244605/packages/nuget/index.json": {},
+        "https://gitlab.com/api/v4/projects/28933183/packages/nuget/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\wlues\\RiderProjects\\TauTree\\tauTree\\tauTree.Interfaces\\tauTree.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\wlues\\RiderProjects\\TauTree\\tauTree\\tauTree.Interfaces\\tauTree.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

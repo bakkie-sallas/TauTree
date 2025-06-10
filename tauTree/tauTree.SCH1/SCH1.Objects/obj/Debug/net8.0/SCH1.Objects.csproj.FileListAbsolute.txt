@@ -1,0 +1,6 @@
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.csproj.AssemblyReference.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.AssemblyInfoInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.AssemblyInfo.cs
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.csproj.CoreCompileInputs.cache
+C:\Users\wlues\RiderProjects\TauTree\tauTree\tauTree.SCH1\SCH1.Objects\obj\Debug\net8.0\SCH1.Objects.sourcelink.json
